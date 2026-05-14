@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="btn_start">DÉMARRER</string>
+    <string name="btn_stop">ARRÊTER</string>
+    <string name="waiting">En attente du GPS…</string>
+    <string name="permission_denied">Permission de localisation refusée</string>
+</resources>
